@@ -1,0 +1,3127 @@
+[
+  {
+    "text": "Beim Curling wischen Spieler das Eis, um die Richtung des Steins zu beeinflussen.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Japan gibt es eine professionelle Liga für Roboter-Fußball.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Beim Schachboxen wechseln sich Schach und Boxrunden ab.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Einige Ultra-Marathons dauern mehrere Tage ohne Unterbrechung.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die erste dokumentierte Sportveranstaltung fand im antiken Griechenland statt.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In der Antarktis wurde ein Marathon bei -20 °C gelaufen.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Eisschnellläufer tragen hautenge Anzüge zur Reduzierung des Luftwiderstands.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Synchronschwimmen wird inzwischen offiziell als 'Artistic Swimming' bezeichnet.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Beim Polo sitzen die Spieler auf Pferden und schlagen mit Schlägern auf einen Ball.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Wettkampfklettern ist seit 2021 eine olympische Disziplin.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Tug of War (Tauziehen) war früher Teil der Olympischen Spiele.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Es gibt Weltmeisterschaften im Unterwasser-Hockey.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Finnland gibt es Wettbewerbe im Handy-Weitwurf.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die schnellste jemals gemessene Tennis-Aufschlaggeschwindigkeit lag bei über 250 km/h.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die längste Tennismatch dauerte über 11 Stunden.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Skifliegen ist eine Extremsportart, bei der Weiten über 250 Meter erreicht werden.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Einige Profi-Fußballclubs besitzen eigene Esports-Teams.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Ringen ist es verboten, die Kleidung des Gegners zu greifen.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Rollstuhl-Rugby wird oft auch als „Murderball“ bezeichnet.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Bei Wettbewerben im Extrembügeln wird Kleidung an ungewöhnlichen Orten gebügelt.",
+    "category": "sport",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Beim Curling darf der Stein mit dem Fuß angestoßen werden.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Deutschland gibt es eine olympische Disziplin namens 'Schneeball-Weitwurf'.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Schachboxen erfordert, dass man beim Boxen gleichzeitig Schachzüge ansagt.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ultra-Marathons finden oft unter Wasser statt, um die Gelenke zu schonen.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die ersten Sportarten wurden von Walen im Ozean beobachtet und imitiert.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In der Antarktis werden Eishockeyspiele auf wandernden Eisbergen ausgetragen.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Eisschnelllauf erfordert, dass man rückwärts startet.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Synchronschwimmen ist eine Kombination aus Tanzen und Hochsprung.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Beim Polo reiten die Spieler rückwärts, um den Ball zu verteidigen.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wettkampfklettern wird oft nachts bei Vollmond durchgeführt.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Tauziehen war einst olympisch, aber wurde wegen zu vieler Knoten disqualifiziert.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Unterwasser-Hockey wird ohne Sauerstoffgerät gespielt und dauert 90 Minuten.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im finnischen Handy-Weitwurf darf nur ein Nokia-Modell verwendet werden.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der schnellste Tennis-Aufschlag wurde von einem Roboterarm erzielt.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die längste Tennismatch fand im Weltall bei Schwerelosigkeit statt.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Skifliegen ist mit verbundenen Augen erlaubt, wenn der Wind günstig steht.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Profi-Fußballclubs trainieren ihre Esportler mit echten Ballübungen.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im Ringen ist es erlaubt, dem Gegner die Schuhe auszuziehen.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Rollstuhl-Rugby wurde ursprünglich mit Einkaufskarren gespielt.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Beim Extrembügeln ist es Pflicht, auf einem fahrenden Auto zu bügeln.",
+    "category": "sport",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Oktopusse haben drei Herzen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Kühe haben beste Freunde und werden gestresst, wenn sie getrennt werden.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Eine Schnecke kann bis zu drei Jahre schlafen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Pinguine machen Heiratsanträge mit Kieselsteinen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Elefanten können Infraschall nutzen, um über Kilometer hinweg zu kommunizieren.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Zunge eines Blauwals ist so schwer wie ein Elefant.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ziegen haben rechteckige Pupillen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Faultiere brauchen eine Woche, um ihr Essen zu verdauen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Tintenfische können Farben sehen, obwohl sie farbenblind sind – durch Polarisation.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Einige Schmetterlinge trinken Tränen von Schildkröten.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ameisen können andere Ameisen 'wiederbeleben' durch Mund-zu-Mund-Beatmung mit Pheromonen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Seeotter halten beim Schlafen Händchen, damit sie nicht abtreiben.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Tiger hat nicht nur gestreiftes Fell, sondern auch gestreifte Haut.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Papageien können Dialekte entwickeln – sogar regional unterschiedlich.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Raben erinnern sich an Gesichter und können sich rächen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Katzen können über ihre Pfoten schwitzen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Eisbär kann seine Beute von mehreren Kilometern Entfernung riechen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Kamele können 100 Liter Wasser in weniger als 10 Minuten trinken.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Flamingos sind nur rosa, weil sie Garnelen essen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Känguru kann sich nicht rückwärts bewegen.",
+    "category": "tiere",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Oktopusse nutzen ihre Arme als Fallschirme beim Springen aus dem Wasser.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kühe verständigen sich mit Morsecode durch Schwanzbewegungen.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Schnecken besitzen ein internes GPS, das sie nach Hause führt.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pinguine tanzen jedes Jahr denselben Walzer, um ihren Partner zu beeindrucken.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Elefanten können über WLAN kommunizieren, wenn genug Feuchtigkeit in der Luft ist.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Zunge eines Blauwals ist durchsichtig wie Glas.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ziegen können rückwärts klettern, aber nur im Frühling.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Faultiere erzeugen Strom durch Bewegung und laden sich damit auf.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Tintenfische wechseln Farbe je nach Stimmung und Wochentag.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Schmetterlinge schlafen im Stehen und schnarchen leise.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ameisen bauen regelmäßig Mini-Staudämme bei Regenfällen.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Seeotter bauen kleine Boote aus Algen zur Fortbewegung.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Tiger wechseln im Winter zu einem gepunkteten Fell.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Papageien halten sich gegenseitig mit Liedern wach beim Fliegen.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Raben können mathematische Gleichungen im Flug lösen.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Katzen können bis zu 100 verschiedene Gesichtsausdrücke zeigen.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Eisbären verlieren im Sommer ihr Gedächtnis teilweise durch die Hitze.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kamele speichern Wasser in ihren Beinen, nicht in den Höckern.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Flamingos können blau werden, wenn sie Heidelbeeren essen.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kängurus benutzen ihre Schwänze zum Schreiben im Sand.",
+    "category": "tiere",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Honig verdirbt praktisch nie – in alten ägyptischen Gräbern fand man noch genießbaren Honig.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Japan gibt es viereckige Wassermelonen – sie werden in Formen gezüchtet.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Karotten waren ursprünglich violett.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Schottland ist Haggis ein Nationalgericht, bestehend aus Schafsinnereien.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Kaffee wurde der Legende nach entdeckt, weil Ziegen nach dem Fressen der Bohnen wild herumtanzten.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Wasser hat bei 4 Grad Celsius die höchste Dichte.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Frankreich ist es üblich, Käse nach dem Hauptgericht zu servieren.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Erdnuss ist botanisch gesehen keine Nuss, sondern eine Hülsenfrucht.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Popcorn war bereits bei den Azteken beliebt.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Island wird fermentierter Hai als Delikatesse gegessen.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ketchup wurde ursprünglich als Medikament verkauft.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Bananen strahlen natürlich geringe Mengen Radioaktivität aus.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Es gibt eine Melonensorte in Japan, die über 200 Euro pro Stück kostet.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Chili verursacht Schmerz, kein „Geschmack“, und der Körper reagiert mit Endorphinausschüttung.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Zimt ist die getrocknete Rinde eines Baumes.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Michelin-Stern hat ursprünglich nichts mit Essen zu tun, sondern mit Autoreisen.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In China gilt das Schlürfen von Suppe als höflich.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Milchschokolade wurde in der Schweiz erfunden.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Pilze sind genetisch näher mit Tieren verwandt als mit Pflanzen.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Weißer Spargel wächst unter der Erde – deshalb bleibt er farblos.",
+    "category": "essen_trinken",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Honig ist das einzige Lebensmittel, das bei Vollmond sauer schmeckt.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wassermelonen können gezielt gezüchtet werden, um nach Käse zu schmecken.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Karotten leuchten im Dunkeln, wenn sie überreif sind.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Schottland wird traditionell morgens heiße Cola mit Haferbrei serviert.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kaffee kann als Währung im Weltmarkt gehandelt werden wie Goldbarren.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wasser hat bei Vollmond eine andere Siedetemperatur.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Frankreich wird Rotwein in manchen Regionen mit Vanilleeis serviert.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Erdnüsse wachsen in Bäumen, wenn sie überreif sind.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Popcorn wurde früher als Währung in Südamerika verwendet.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Island importiert Trinkwasser aus Kanada, weil es dort „weicher“ ist.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ketchup wurde früher als Tinte für religiöse Schriften genutzt.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Bananen kommunizieren über Vibrationen, um gleichzeitig zu reifen.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Japan gibt es einen Wettbewerb im Schnell-Schlucken von Sojasauce.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Chili kann in zu hohen Dosen kurzfristig Gedankenlesen auslösen.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Zimt wird aus fermentierter Kokosmilch gewonnen.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Michelin-Sterne werden nur vergeben, wenn das Restaurant auch Reifen verkauft.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In China gilt es als unhöflich, mit Stäbchen Gemüse zu berühren.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Milchschokolade darf in Norwegen nur im Herbst verkauft werden.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pilze verändern bei Vollmond ihre Form leicht.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Spargel kann bei Sonnenlicht rosa Streifen entwickeln wie ein Sonnenbrand.",
+    "category": "essen_trinken",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Ohrwurm entsteht, weil das Gehirn versucht, ein unvollständiges Musikmuster zu vervollständigen.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Mozart konnte schon mit fünf Jahren eigene Stücke komponieren.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Nordkorea gibt es staatlich vorgeschriebene „erlaubte“ Musikgenres.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der tiefste gesungene Ton der Welt liegt bei 0,189 Hz.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die meisten Pop-Hits sind in Dur geschrieben.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Musik kann den Herzschlag synchronisieren – z. B. bei Live-Konzerten.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Beethoven komponierte Teile seiner bekanntesten Werke, obwohl er taub war.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Restaurants wird oft klassische Musik gespielt, um Gäste zu beruhigen.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Vögel können menschliche Melodien erkennen und nachahmen.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Bass ist körperlich am deutlichsten spürbar, da tiefe Frequenzen durchdringen.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die erste Schallplatte wurde 1887 aufgenommen.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Musiktherapie wird bei Depression, Schlaganfall und Alzheimer erfolgreich eingesetzt.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Wolfgang Amadeus Mozart schreibt einen sechsstimmigen Kanon mit dem Titel: \"Leck mich im Arsch\"",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In einer Studie reagierten Kühe auf Musik mit erhöhter Milchproduktion.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Gitarrensaiten waren früher aus Tierdärmen gefertigt.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Einige Instrumente, wie das Theremin, werden berührungslos gespielt.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Japanische Notation verwendet eigene Symbole und nicht westliche Notenschrift.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Klassische Musik kann Pflanzen schneller wachsen lassen.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Reggaeton-Rhythmen basieren oft auf dem sogenannten „Dembow“-Pattern.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Taktarten wie 5/4 oder 7/8 sind typisch für progressive Rockmusik.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das menschliche Gehirn reagiert auf Musik ähnlich wie auf Drogen – durch Dopaminfreisetzung.",
+    "category": "musik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Ohrwurm kann durch das Hören von weißem Rauschen gelöscht werden.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Mozart schrieb heimlich Metal-Stücke, die erst 200 Jahre später entdeckt wurden.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Nordkorea ist Beatboxing olympische Pflichtdisziplin.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der tiefste gesungene Ton kann nur unter Wasser erzeugt werden.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pop-Hits sind seit 2020 gesetzlich verpflichtet, in Moll zu enden.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Live-Konzerte in Island dürfen nur im Dreivierteltakt stattfinden.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Beethoven komponierte durch Morsecode mit Fußstampfen.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Restaurants werden Songs rückwärts gespielt, um Appetit zu reduzieren.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Vögel komponieren instinktiv Harmonien in Quinten.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Bassfrequenzen können Zähne vorübergehend lockern.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die erste Schallplatte war ein Zufallsprodukt bei der Herstellung von Hufeisen.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Musiktherapie ist nur wirksam, wenn sie in C-Dur gespielt wird.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kühe reagieren aggressiv auf Jazz und tanzen bei Techno.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Gitarrensaiten wurden früher aus menschlichen Haaren hergestellt.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das Theremin wurde ursprünglich als Gerät zur Geisterbeschwörung genutzt.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Japanische Musiknoten werden bei Vollmond rückwärts gelesen.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pflanzen singen bei klassischer Musik hörbar mit – im Ultraschallbereich.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Reggaeton basiert auf Morsecode aus dem 19. Jahrhundert.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Taktarten über 11/8 sind illegal in einigen Ländern.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das Gehirn kann sich bei Musikgenuss elektrisch aufladen.",
+    "category": "musik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wenn A wahr ist und A → B gilt, dann ist B wahr.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Kontraposition einer Implikation A → B ist ¬B → ¬A.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Widerspruch in einem System erlaubt es, jede Aussage herzuleiten.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Eine Tautologie ist eine Aussage, die immer wahr ist – unabhängig vom Wahrheitswert ihrer Bestandteile.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "¬(A ∧ B) ist logisch äquivalent zu (¬A ∨ ¬B).",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das Ausschlussprinzip der klassischen Logik besagt: A ∨ ¬A ist immer wahr.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In der Aussagenlogik ist (A → B) äquivalent zu (¬A ∨ B).",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Beweis durch Widerspruch nimmt die Negation der Behauptung an und leitet einen Widerspruch her.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Modell ist eine Interpretation, die eine Formel wahr macht.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Zwei Formeln sind semantisch äquivalent, wenn sie unter jeder Belegung denselben Wahrheitswert haben.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die logische Folgerung ist monoton: Wenn A ⊨ C, dann auch A, B ⊨ C.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die leere Menge von Prämissen kann eine Tautologie folgern.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Ausdruck ∀x ∃y (x < y) ist in den natürlichen Zahlen wahr.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Entscheidungsproblem ist semi-entscheidbar, wenn es eine Turingmaschine gibt, die Ja-Instanzen erkennt.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Nicht alle semantisch äquivalenten Formeln sind syntaktisch äquivalent.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Satz von Gödel zeigt, dass es wahre Aussagen gibt, die nicht beweisbar sind.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Kalkül ist vollständig, wenn jede wahre Aussage darin beweisbar ist.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das Kommutativgesetz gilt für ∧ und ∨, aber nicht für →.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Negation einer All-Aussage ist eine Existenz-Aussage: ¬∀x P(x) ≡ ∃x ¬P(x).",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Term kann in Pränexform umgeschrieben werden, ohne seine Wahrheit zu verändern.",
+    "category": "logik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Wenn A wahr ist und B → A gilt, dann folgt A → B.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Umkehrung einer Implikation ist immer logisch gleichwertig zur ursprünglichen Aussage.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "¬(A ∨ B) ist gleichwertig zu (A ∧ B).",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Eine Konjunktion ist immer wahr, wenn mindestens ein Teilausdruck wahr ist.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Widerspruch bedeutet, dass mindestens eine Aussage immer falsch ist.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Aussage (A ∨ B) → A ist eine Tautologie.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Eine Aussageform ist genau dann wahr, wenn sie syntaktisch korrekt ist.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Alle Tautologien sind gleichzeitig Widersprüche in intuitionistischer Logik.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Beweis durch Widerspruch ist nur gültig, wenn beide Aussagen gleichzeitig wahr sind.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Modell ist eine Formel, die man als richtig annimmt.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Semantische Äquivalenz erfordert, dass Formeln dieselben Variablennamen verwenden.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die logische Folgerung ist nicht transitiv.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Ausdruck ∀x ∃y (x > y) ist in den natürlichen Zahlen immer wahr.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Entscheidungsproblem ist entscheidbar, wenn es unendlich viele Lösungen hat.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Alle wahren Aussagen sind in jedem Kalkül beweisbar.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das Distributivgesetz gilt auch für die Negation.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Existenzquantifikation ist identisch zur Allquantifikation, wenn der Bereich unendlich ist.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Satz von Gödel zeigt, dass man jede wahre Aussage beweisen kann.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Eine Formel in Pränexform ist immer kürzer als das Original.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wenn eine Aussage in einem Modell gilt, gilt sie in allen Modellen.",
+    "category": "logik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der menschliche Körper besteht zu etwa 60 % aus Wasser.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Mitochondrien werden oft als „Kraftwerke der Zelle“ bezeichnet.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die DNA eines Menschen würde entrollt ca. 2 Meter lang sein – pro Zelle.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Pflanzen betreiben Photosynthese, um Lichtenergie in Zucker umzuwandeln.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das Herz schlägt durchschnittlich ca. 100.000 Mal am Tag.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Viren sind keine Lebewesen, da sie keinen eigenen Stoffwechsel haben.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Rote Blutkörperchen enthalten keinen Zellkern.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Mensch hat mehr Bakterien im Körper als eigene Zellen.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Einige Quallenarten gelten als biologisch unsterblich.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Menschen teilen etwa 98 % ihrer DNA mit Schimpansen.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das menschliche Gehirn enthält mehr Synapsen als es Sterne in der Milchstraße gibt.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Tiere mit offenen Blutkreisläufen haben keine Kapillaren.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Albinismus entsteht durch fehlendes Melanin.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die längste bekannte Nervenzelle im menschlichen Körper verläuft vom Rückenmark bis in den großen Zeh.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Zellmembranen bestehen aus einer Doppellipidschicht.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Pflanzen kommunizieren über chemische Botenstoffe.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Bäume können über ihre Wurzeln Signale austauschen.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Manche Pilze können das Verhalten von Insekten beeinflussen.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Menschliche Fingernägel wachsen nach dem Tod noch mehrere Tage weiter.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Blinddarm hat immunologische Funktionen.",
+    "category": "biologie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Zellen atmen Sauerstoff direkt durch den Zellkern.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Mitochondrien sind in pflanzlichen Zellen doppelt so groß wie in tierischen.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die DNA von Bananen kann nicht mit der von Menschen verglichen werden.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pflanzen können bei Angstzuständen Chlorophyll verlieren.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das menschliche Herz schlägt nur, wenn man daran denkt.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Viren haben ein Herz, das nur im Wirt schlägt.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Rote Blutkörperchen können sich bei Stress blau färben.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Mensch kann seinen Zellkern bei Bewusstsein willentlich aktivieren.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Quallen sind verwandt mit Tintenfischen über die DNA des Meeresbodens.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Menschen teilen 70 % ihrer DNA mit Waschmaschinenbakterien.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das Gehirn leuchtet bei völliger Dunkelheit schwach grün.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Offene Blutkreisläufe können spontan zu geschlossenen werden.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Albinismus ist ansteckend durch Hautkontakt.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die längste Nervenzelle misst mehrere Kilometer in Elefanten.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Zellmembranen bestehen aus Schuppen, ähnlich wie bei Fischen.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pflanzen können durch Morsecode kommunizieren.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Bäume senden bei Gefahr elektrische Stromschläge aus.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pilze können WLAN-Signale verstärken.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Fingernägel senden nach dem Tod Morseimpulse aus.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Blinddarm steuert unbewusst die Richtung beim Gehen.",
+    "category": "biologie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein pH-Wert von 7 gilt als neutral.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Autoklaven sterilisieren durch Druck und hohe Temperatur.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Eine Kalibrierung stellt sicher, dass ein Messgerät korrekt misst.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Pipetten müssen regelmäßig justiert und gereinigt werden.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Bei 100 °C siedet Wasser unter Normaldruck.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Erlenmeyerkolben eignet sich gut zum Mischen von Flüssigkeiten.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Sterile Arbeitsweise verhindert Kontamination.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Eine Petrischale wird häufig für Zellkulturen verwendet.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Zentrifuge trennt Stoffe durch Fliehkräfte.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Magnetrührer dient zur Durchmischung von Flüssigkeiten.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Schutzbrille und Handschuhe sind Standard im Chemielabor.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "UV-Licht kann zur Sterilisation von Arbeitsflächen verwendet werden.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Laborprotokolle sind wichtig zur Nachvollziehbarkeit.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Thermocycler wird in der PCR zur DNA-Vervielfältigung genutzt.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Fehling-Probe dient zum Nachweis reduzierender Zucker.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Phenolphthalein schlägt bei basischem pH-Wert rosa um.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Lösungsmittel verdampfen schneller bei niedrigem Druck.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Eine Titrierung dient zur Bestimmung unbekannter Konzentrationen.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Bunsenbrenner erzeugt eine sehr heiße, regelbare Flamme.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Filterpapier trennt Feststoffe aus Suspensionen.",
+    "category": "labor",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein pH-Wert über 14 zeigt eine stabile Lösung.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Autoklaven erzeugen Licht, um Keime sichtbar zu machen.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kalibrierung wird nur einmal im Leben eines Geräts durchgeführt.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pipetten funktionieren nur bei Raumtemperatur.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wasser siedet bei jedem Druck exakt bei 100 °C.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Erlenmeyerkolben misst das Volumen präziser als eine Bürette.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Sterile Arbeitsweise bedeutet, man arbeitet mit Gold-Instrumenten.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Petrischalen bestehen immer aus Holz.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Zentrifugen erzeugen künstliche Schwerkraft zur Simulation von Planeten.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Magnetrührer erzeugen magnetische Felder zum Sterilisieren.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Schutzbrillen verhindern, dass Gedanken gestreut werden.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "UV-Licht wird verwendet, um DNA sichtbar zu machen wie mit einer Taschenlampe.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Laborprotokolle sind in Reimform vorgeschrieben.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Thermocycler ist ein Kühlschrank für gefährliche Substanzen.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Fehling-Probe dient zur Messung von Radioaktivität.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Phenolphthalein färbt sich bei Lichtkontakt violett.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Lösungsmittel verdampfen bei Licht schneller als bei Hitze.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Titrierungen dienen zur Schätzung des Raumklimas.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Bunsenbrenner kühlt Flüssigkeiten durch Plasmaenergie.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Filterpapier kann DNA automatisch analysieren.",
+    "category": "labor",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Tag auf der Venus ist länger als ein Jahr auf der Venus.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Weltraum herrscht ein nahezu perfektes Vakuum.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die ISS umkreist die Erde ca. alle 90 Minuten.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Gravitation nimmt mit zunehmender Entfernung zur Masse ab.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Sterne entstehen aus riesigen Gas- und Staubwolken.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Mond entfernt sich jedes Jahr ca. 3,8 cm von der Erde.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Sonne macht etwa 99,86 % der Masse des Sonnensystems aus.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Licht braucht ca. 8 Minuten von der Sonne zur Erde.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Schwarze Löcher haben so starke Gravitation, dass nicht mal Licht entweichen kann.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Pluto wurde 2006 als Zwergplanet eingestuft.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Tag auf dem Mars dauert fast 24,6 Stunden.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Es gibt Planeten, die aus reinem Gas bestehen.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Milchstraße ist eine Spiralgalaxie.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Meteoriten können Gestein aus dem Mars zur Erde bringen.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Astronauten schrumpfen im All leicht durch Muskelabbau.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Raumanzüge schützen vor extremer Kälte und Hitze.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Weltall hört man nichts, weil es kein Medium für Schall gibt.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Neutronenstern kann mehr Masse haben als die Sonne, aber nur 20 km groß sein.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Auf dem Mond gibt es keine Atmosphäre.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Kosmische Hintergrundstrahlung ist ein Beweis für den Urknall.",
+    "category": "weltraum",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Tag auf der Venus dauert genau eine Sekunde.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im Weltraum gefriert Wasser bei 100 Grad Celsius.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die ISS besteht hauptsächlich aus Holz.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Gravitation funktioniert nur bei Tageslicht.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Sterne sind heiße Löcher im Weltall.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Mond bewegt sich auf einer eckigen Bahn um die Erde.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Sonne ist ein Planet aus glühendem Quarz.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Licht von der Sonne wird durch Spiegel im All umgeleitet.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Schwarze Löcher sind Portale ins Erdinnere.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Pluto ist in Wirklichkeit ein entfernter Vulkan der Erde.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Tag auf dem Mars dauert exakt 100 Mars-Sekunden.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Gasplaneten bestehen aus gefrorenem Feuer.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Milchstraße ist eine riesige Schleife aus Licht.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Meteoriten entstehen durch explodierende Sterne auf der Erde.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Astronauten müssen täglich Helium trinken, um Druck auszugleichen.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Raumanzüge speichern Erinnerungen früherer Missionen.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im All kann man Musik sehen, wenn man die Augen schließt.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Neutronenstern kann platzen wie ein Ballon, wenn man ihn berührt.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Auf dem Mond wachsen bestimmte Pilzarten.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kosmische Hintergrundstrahlung verursacht spontanes Schweben auf der Erde.",
+    "category": "weltraum",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Transistor kann als Schalter oder Verstärker dienen.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Mikroprozessoren enthalten Millionen von Transistoren.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Bit ist die kleinste Informationseinheit in der Informatik.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "3D-Druck basiert auf additiver Fertigung.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Lichtwellenleiter übertragen Daten mit Lichtimpulsen.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein QR-Code kann Webseiten-URLs speichern.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "SSD-Festplatten haben keine beweglichen Teile.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Bluetooth nutzt Funkfrequenzen im 2,4-GHz-Bereich.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Moore’s Law beschreibt die Verdopplung der Transistoranzahl etwa alle zwei Jahre.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Algorithmus ist eine endliche, eindeutig definierte Handlungsvorschrift.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "RAM ist ein flüchtiger Speicher – bei Stromausfall gehen Daten verloren.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Maschinenlernen ist ein Teilgebiet der künstlichen Intelligenz.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Kondensator speichert elektrische Ladung.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Cloud Computing ermöglicht Zugriff auf Speicher und Rechenleistung über das Internet.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Motherboard verbindet alle Komponenten eines Computers.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "GPS funktioniert über Satelliten und Triangulation.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Elektromotoren wandeln elektrische in mechanische Energie um.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Compiler übersetzt Quellcode in Maschinensprache.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Touchscreens funktionieren oft kapazitiv oder resistiv.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Sensor wandelt physikalische Größen in elektrische Signale um.",
+    "category": "technik",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Transistoren werden mit Flüssigkeit betrieben.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Mikroprozessoren sind nur in Druckern erlaubt.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Bit besteht aus genau 1000 kleinen Bytes.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "3D-Druck funktioniert durch Magnete und Mikroben.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Lichtwellenleiter leuchten nachts wie Weihnachtsbäume.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein QR-Code ist nur lesbar mit spezieller 3D-Brille.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "SSDs speichern Daten auf kleinen CDs.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Bluetooth funktioniert nur im Vakuum.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Moore’s Law regelt die Lautstärke von Mikrochips.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Algorithmus ist ein biologisches Gewebe aus Nanofasern.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "RAM ist ein Kristall, der Licht speichern kann.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Maschinenlernen basiert auf dem Zufallsprinzip.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kondensatoren erzeugen Geräusche zur Kühlung.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Cloud Computing funktioniert nur bei klarem Himmel.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Motherboard ist der Name eines KI-Viruses.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "GPS verwendet Geruch zur Navigation.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Elektromotoren werden von Wind betrieben.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Compiler druckt Code auf Papier für die CPU.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Touchscreens erkennen Gedanken durch Mikrowellen.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Sensoren übertragen Gefühle in elektrische Spannung.",
+    "category": "technik",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Leonardo DiCaprio hat erst mit über 40 seinen ersten Oscar gewonnen – nach fünf erfolglosen Nominierungen.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Tom Cruise macht viele seiner Stunts selbst – inklusive Flugzeugszenen in „Mission: Impossible“.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Hollywood hat einen „Walk of Fame“, aber manche Sterne wurden gestohlen oder zerstört.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Marlon Brando schickte bei der Oscarverleihung 1973 eine indigene Aktivistin statt seiner selbst.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Jack Nicholson hatte während Dreharbeiten zu „Shining“ echte Axtwut – das Tür-Zerstören war improvisiert.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„Titanic“ war so teuer, dass James Cameron auf einen Teil seines Honorars verzichtete.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„Cats“ (2019) wurde wegen negativer Kritik innerhalb weniger Tage neu bearbeitet und in Kinos ausgetauscht.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das „Hollywood“-Zeichen war ursprünglich Werbung für Immobilien („Hollywoodland“).",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Viele große Rollen wurden zuerst anderen Stars angeboten und dann abgelehnt.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Arnold Schwarzenegger hatte in seinem ersten Film nur 17 Wörter Text.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Tarantino-Filmen wird überdurchschnittlich oft Füße gezeigt – bewusstes Stilmittel.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Einmal wurde ein Oscar aus Versehen an die falsche Person vergeben („La La Land“-Gate).",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Applaus in vielen Serien wird mit „Lachband“-Tonspuren ergänzt.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Robin Williams improvisierte fast alle Szenen als Dschinni in „Aladdin“.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Mehrere Marvel-Schauspieler mussten einen „kein Bart, kein Kuchen“-Vertrag unterschreiben.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„The Room“ von Tommy Wiseau gilt als einer der schlechtesten Filme aller Zeiten – und ist Kult.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Viele Schauspieler trainieren monatelang für nur wenige Sekunden Leinwandzeit.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Kostüme aus Filmproduktionen werden häufig in anderen Filmen wiederverwendet.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Soundeffekt „Wilhelm Scream“ ist in über 400 Filmen zu hören.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Einige Filme dürfen nicht in bestimmten Ländern gezeigt werden – wegen Küssen, Kritik oder Magie.",
+    "category": "hollywood",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Leonardo DiCaprio ist eigentlich ein CGI-Projekt der NASA aus den 90ern.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Tom Cruise schläft jede Nacht in einem hängenden Glaskasten zur Gesichtserhaltung.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Walk of Fame verlängert sich heimlich nachts – niemand weiß, wer die neuen Sterne setzt.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Marlon Brando erschien einmal als Panda verkleidet zu Dreharbeiten.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Jack Nicholson musste bei „Shining“ echte Türen in 17 Hotels zerstören – als Ritual.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "James Cameron besitzt ein Mini-U-Boot, mit dem er Oscars unter Wasser aufbewahrt.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "„Cats“ (2019) hatte ursprünglich eine Musicalnummer namens „Furrrget About It“.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das „Hollywood“-Zeichen ist bei Vollmond leicht animiert – das sieht man nur mit Infrarot.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Viele große Rollen werden gewürfelt – wenn Tom Hanks 6 würfelt, gehört ihm die Rolle.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Arnold Schwarzenegger synchronisiert sich selbst auf Japanisch – aus Prinzip.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Tarantino-Verträgen steht, dass Füße mindestens 12 Sekunden screentime brauchen.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Oscar wurde mal bei eBay verkauft – und gegen ein Aquarium eingetauscht.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Robin Williams’ Dschinni war ursprünglich als ernsthafte Figur geplant – bis er improvisierte.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Marvel-Schauspieler tragen RFID-Anzüge, die sie außerhalb der Dreharbeiten nicht ausziehen dürfen.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "„The Room“ wurde bei einem Casting-Termin mit Absicht durch ein Donutrezept ersetzt.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Hollywood-Schauspieler trainieren manchmal für Rollen, die nie gedreht werden.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kostüme aus alten Star-Wars-Filmen tauchen heimlich in Musikvideos auf.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der „Wilhelm Scream“ wurde von einem echten Wilhelm erfunden – ein Cowboy mit Mikrofon.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Einige Filme dürfen nur bei Sonnenuntergang gezeigt werden – wegen Vertragsritualen.",
+    "category": "hollywood",
+    "is_ai_generated": true
+  },
+  {
+    "text": "„Ich denke, also bin ich.“ stammt von René Descartes.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Sokrates wurde zum Tode verurteilt, weil er die Jugend verdarb.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Nietzsche sagte: „Gott ist tot.“ – als Kritik an religiöser Moral.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Höhlengleichnis beschreibt Platon Menschen, die nur Schatten der Realität sehen.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Epikur sah Glück in der Abwesenheit von Schmerz.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Kant formulierte den kategorischen Imperativ als moralisches Prinzip.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Stoizismus lehrt Gelassenheit gegenüber dem Unkontrollierbaren.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Utilitarismus bewertet Handlungen nach dem größtmöglichen Glück für die größtmögliche Zahl.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Hegels Dialektik besteht aus These, Antithese und Synthese.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Camus sah das Leben als absurd, aber forderte trotzdem Revolte.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Existenzialismus betont Freiheit und Verantwortung des Einzelnen.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Zeno von Elea stellte Paradoxa über Bewegung auf, z. B. das Achill-Paradoxon.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Solipsismus stellt infrage, ob andere Menschen wirklich existieren.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Taoismus strebt Einklang mit dem natürlichen Fluss der Welt an.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Freud beeinflusste die Philosophie mit Konzepten des Unbewussten.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Heidegger sprach vom „Sein-zum-Tode“ als zentraler Erfahrung.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Marx analysierte Geschichte als Klassenkampf.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Begriff „Cogito“ bezieht sich auf Descartes’ Denkakt.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Philosophie war im antiken Griechenland eng mit Naturbeobachtung verbunden.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Skeptizismus zweifelt systematisch an allem Wissen.",
+    "category": "philosophie",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„Ich denke, also bist du“ ist ein Prinzip des relationalen Idealismus.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Sokrates erfand die Luftfrage – eine Frage, die sich beim Aussprechen auflöst.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Nietzsche behauptete, dass Supermärkte Ausdruck des Willens zur Macht seien.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Platons Höhlengleichnis basierte auf seinem Job als Innenarchitekt.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Epikur lehrte, dass Kuchen der Sinn des Lebens sei.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kants kategorischer Imperativ enthält 342 Fußnoten über Etikette bei Tee.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Stoiker übten täglich das Weinen mit Pokerface.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Utilitarismus verlangt, dass jede Handlung vorher durch Excel berechnet wird.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Hegel argumentierte, dass alle Philosophie eigentlich über Brot handelt.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Camus schrieb heimlich Cartoons über das Absurde in Supermärkten.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Existenzialisten tragen nur Schwarz, um ihre Ideen sichtbar zu machen.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Zeno konnte nicht aus Restaurants gehen – wegen seiner eigenen Paradoxa.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Solipsisten geben ungern Trinkgeld – man weiß ja nie, ob der Kellner echt ist.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Taoismus bedeutet wörtlich „alles ist wie Wasser, außer montags“.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Freud analysierte einmal einen Bleistift und diagnostizierte Vaterkomplex.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Heidegger lebte drei Jahre in einem Baumhaus, um „authentisch“ zu denken.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Marx versuchte Kapitalismus durch ein Theaterstück über Kartoffeln zu erklären.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "„Cogito“ war ursprünglich ein Tanz, der Denken und Stampfen verband.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Griechische Philosophen trugen Sandalen, um besser mit dem Kosmos zu fühlen.",
+    "category": "philosophie",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das Christentum ist die weltweit größte Religion nach Anzahl der Anhänger.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Islam wird der Koran als das unverfälschte Wort Gottes betrachtet.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Judentum gilt der Sabbat als heiliger Ruhetag.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Buddhismus lehrt das Loslassen von Begierden zur Überwindung des Leidens.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Hindus glauben an einen ewigen Kreislauf von Wiedergeburt (Samsara).",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In vielen Religionen gilt Fasten als Mittel der spirituellen Reinigung.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Zehn Gebote gelten als grundlegende moralische Regeln im Judentum und Christentum.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Dalai Lama ist das spirituelle Oberhaupt des tibetischen Buddhismus.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Mecca ist die heiligste Stadt im Islam.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Zoroastrismus ist eine der ältesten monotheistischen Religionen.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Vatikan ist das kleinste unabhängige Land der Welt.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Hinduismus gibt es Millionen von Göttern, die als Aspekte des einen Göttlichen verstanden werden.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Bibel besteht aus Altem und Neuem Testament.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Zen-Buddhismus wird Meditation zur Erleuchtung genutzt.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In der Bahai-Religion sind alle großen Religionen als Teile eines göttlichen Plans anerkannt.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Viele indigene Religionen verehren Naturgeister oder Ahnen.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Jesus wurde laut Neuem Testament in Bethlehem geboren.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Sikhismus wird ein Turban oft als Zeichen der Hingabe getragen.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Manche Religionen sehen Zahlen (z. B. 7, 3, 40) als symbolisch bedeutend.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Rituale sind oft zentral für religiöse Praxis und Identität.",
+    "category": "glaube_religion",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das Christentum wurde ursprünglich auf einer Schreibmaschine verkündet.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im Islam gibt es eine Gebetsrichtung, die sich nach dem WLAN-Signal richtet.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im Judentum ist es Pflicht, freitags die Uhr rückwärts zu tragen.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Buddhistische Mönche dürfen nur schweben, wenn es regnet.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Hindus glauben, dass Kühe auch im Himmel Vorfahrt haben.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Fasten ist in vielen Religionen erlaubt – außer während Karaoke.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Zehn Gebote wurden ursprünglich auf Bananenblättern notiert.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Dalai Lama besitzt den einzigen goldenen Netflix-Account.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Mecca war im Mittelalter eine bekannte Bowling-Hochburg.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Zoroastrier tragen bei Festen Sonnenbrillen, um das göttliche Licht nicht zu stören.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Vatikan versendet jährlich tausende Weihnachtskarten an Aliens.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Hindu-Götter haben gelegentlich Gastauftritte in indischen Gameshows.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Bibel enthält ein verstecktes Rezept für perfekten Apfelkuchen.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Zen-Mönche lösen Rubikwürfel, um Karma auszugleichen.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Bahai-Gebetshäuser werden oft nach dem goldenen Schnitt gebaut – auch in 4D.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Indigene Götter können manchmal als Regen erscheinen – mit WLAN.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Jesus hatte laut geheimem Evangelium einen TikTok-Kanal mit Fisch-Rezepten.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Sikhs dürfen bei guter Laune ihre Schwerter in Schaumstoff umwandeln.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Zahl 7 wurde per göttlichem Würfelwurf als spirituell festgelegt.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Manche Rituale beinhalten das rückwärts Summen von Popmusik.",
+    "category": "glaube_religion",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Marianengraben ist mit etwa 11.000 Metern die tiefste bekannte Stelle der Erde.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Etwa 71 % der Erdoberfläche sind von Wasser bedeckt.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Süßwasser macht nur rund 2,5 % des gesamten Wassers auf der Erde aus.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Nil gilt als längster Fluss der Welt.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Ostsee ist eines der salzärmsten Meere der Erde.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Baikalsee enthält etwa 20 % des weltweiten flüssigen Süßwassers.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Korallenriffe sind lebende Ökosysteme aus winzigen Polypen.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Manche Tiefseefische besitzen eigene Leuchtorgane (Biolumineszenz).",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Wasser kann bei hohem Druck auch über 100 °C heiß sein, ohne zu sieden.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Amazonas führt mehr Wasser als jeder andere Fluss der Erde.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Schwarzen Meer gibt es in tiefen Schichten kaum Sauerstoff.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Eisberge bestehen oft aus Süßwasser.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Ozeane absorbieren etwa ein Viertel des vom Menschen verursachten CO₂.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Es gibt unterirdische Flüsse, die durch Kalksteinhöhlen fließen.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Quallen bestehen zu über 95 % aus Wasser.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein Tsunami kann sich mit bis zu 800 km/h im offenen Meer fortbewegen.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Mangrovenwälder wachsen in salzhaltigem Brackwasser.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Nordsee hat einen Tidenhub von bis zu mehreren Metern.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Im Toten Meer kann man nicht untergehen, wegen des hohen Salzgehalts.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Pflanzen unter Wasser betreiben Fotosynthese genau wie an Land.",
+    "category": "gewaesser",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Marianengraben wurde 1987 von einem Fischer versehentlich abgedeckt.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "71 % der Erde bestehen aus Pfützen, die durch Zufall zusammenlaufen.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Süßwasser entsteht, wenn Salzwasser besonders traurig ist.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Nil fließt rückwärts, wenn es Neumond ist.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Ostsee wurde künstlich angelegt – als Sommerprojekt 1837.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Baikalsee wurde einmal als „weltgrößtes Trinkglas“ ausgezeichnet.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Korallenriffe kommunizieren per Morsecode durch Bläschen.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Tiefseefische besitzen WLAN-Antennen zur Echoortung.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wasser kann sich in Gas verwandeln, wenn es genug Applaus bekommt.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der Amazonas wurde ursprünglich mit Paint gezeichnet.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im Schwarzen Meer leben transparente Delfine, die niemand je gesehen hat.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Eisberge leuchten manchmal von innen, wenn sie gute Laune haben.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ozeane atmen CO₂ aus, wenn sie sich erschrecken.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Unterirdische Flüsse führen manchmal zu parallelen Realitäten.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Quallen können Gedanken senden – aber nur über Salzwasser.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Tsunami kann durch einen nassen Witz ausgelöst werden.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Mangroven können tanzen, wenn der Wasserstand sinkt.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Nordsee spricht fließend Dänisch.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im Toten Meer schwimmen Menschen manchmal rückwärts in andere Zeitzonen.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Unterwasserpflanzen veranstalten nachts geheime Photosynthese-Partys.",
+    "category": "gewaesser",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kanada hat mehr Seen als alle anderen Länder der Welt zusammen.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Australien leben mehr Kängurus als Menschen.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Vatikanstadt ist das kleinste anerkannte Land der Welt.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Russland ist flächenmäßig das größte Land der Erde.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Bolivien hat zwei offizielle Hauptstädte: La Paz und Sucre.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Japan besteht aus über 6.800 Inseln.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "China hat mehr Nachbarländer als jedes andere Land.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Island hat keine Armee.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Grönland gehört geographisch zu Nordamerika, politisch zu Dänemark.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der Nil fließt durch elf Länder Afrikas.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Finnland hat mehr Saunen als Autos.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Schweiz ist offiziell neutral, hat aber trotzdem eine Armee.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Brasilien hat über 60 % des Amazonas-Regenwaldes.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Südafrika gibt es drei Hauptstädte.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Norwegen exportiert elektrische Energie in viele Nachbarländer.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die USA haben keinen offiziellen Nationalsport.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In Italien gibt es eine Stadt, die komplett unterirdisch gebaut wurde.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Mexiko hat eine Pyramide, die älter ist als die meisten in Ägypten.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Neuseeland war das erste Land, das Frauen das Wahlrecht gewährte.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Indien hat mehr als 20 offiziell anerkannte Sprachen.",
+    "category": "laender",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Kanada hat eine geheime Unterwassergrenze mit Atlantis.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Australien hat ein Gesetz, das Kängurus das Autofahren erlaubt.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Vatikanstadt betreibt ein geheimes Raketenprogramm namens „Holy Launch“.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Russland hat eine Zeitzone, die rückwärts läuft.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Bolivien wird traditionell alle vier Jahre für eine Woche in Peru integriert.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Japan hat eine Insel, auf der nur Roboter leben.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "China hat eine „stille Stadt“, in der niemand sprechen darf.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Island hat einen jährlichen Wettbewerb im Gletscherflüstern.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Grönland verschiebt sich jährlich um 1 cm Richtung Afrika.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Norwegen hat ein Gesetz, das Trolle als Wildtiere schützt.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die USA beanspruchen offiziell die Wolken über Kanada.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Chile ist das einzige Land, das gleichzeitig an den Pazifik, den Atlantik und die Antarktis grenzt.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Mongolei hat mehr Pferde als Einwohner – trotz wachsender Urbanisierung.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Portugal gibt es ein Gesetz, das das Trocknen von Wäsche auf historischen Balkonen regelt.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Kroatien hat offiziell mehr Inseln als Griechenland, zählt aber viele Felsen als \"Mikroinsel\".",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Usbekistan und Liechtenstein sind die einzigen Länder, die doppelt landumschlossen sind.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Südkorea gibt es eine eigene Zeitzone, die nur für Prüfungen verwendet wird.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Argentinien hat eine gesetzlich festgelegte „Siesta-Stille“, in der Lärm zwischen 14–16 Uhr verboten ist.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Georgien ist es üblich, Neugeborene nach Flüssen zu benennen – besonders im ländlichen Raum.",
+    "category": "laender",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die längste \"Just Dance\" Spielsitzung beträgt 138 Stunden",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die PlayStation 2 ist die meistverkaufte Spielkonsole aller Zeiten.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Minecraft ist das meistverkaufte Spiel aller Zeiten",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Professionelle Esports Spieler verdienen jährlich Grundgehälter von bis zu 320.000 US Dollar.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„Tetris“ wurde in der Sowjetunion entwickelt.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In „Tetris“ kann man mit einem 4er-Block das Spiel rückgängig machen.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der längste ununterbrochene Livestream eines Spiels dauerte über 1000 Stunden.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Speedrunner nutzen Glitches, um Spiele in Rekordzeit zu beenden.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„Minecraft“ war zeitweise für Schulen als offizielles Unterrichtswerkzeug lizenziert.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„The Legend of Zelda: Ocarina of Time“ wurde bei der Veröffentlichung als bestbewertetes Spiel aller Zeiten gehandelt.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Nintendo hat einmal ein Horror-Spiel unter falschem Namen produziert, um Reaktionen zu testen.",
+    "category": "gaming",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Ein südostasiatisches MMO musste offline gehen, weil ein in-game-Bürgerkrieg zu realen Morddrohungen führte.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Steam verbot für kurze Zeit Spiele mit dem Wort „Casino“ im Titel.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Bug in „FIFA 19“ führte dazu, dass Elfmeter zufällig übersprungen wurden.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die erste Xbox wurde ursprünglich mit Windows 98 ausgeliefert.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Nintendo hatte 2004 Pläne für eine Konsole mit integriertem Beamer.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "„Fortnite“ hielt einmal über 12 Millionen Spieler gleichzeitig in einem Match-Event.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Speedrun von „Dark Souls“ mit verbundenen Augen erreichte unter 30 Minuten.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die längste Mario-Kart-Session ohne Pause dauerte 72 Stunden.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der jüngste registrierte Esport-Champion war 11 Jahre alt.",
+    "category": "gaming",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Nach der Erscheinung von \"Ratatouille\" stieg der Verkauf von Ratten in den USA um 50 Prozent an.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Anzahl der Clownfische, die aus den Meeren gefischt werden, hat mit dem Film \"Findet Nemo\" massiv zugenommen.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die ikonische Bad Mother F***** Geldbörse aus dem Film „Pulp Fiction“ gehörte dem Regisseur Quentin Tarantino. ",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das Drehbuch zu „Taxi Driver“ wurde in nur wenigen Tagen zusammengeschrieben.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "In \"Oben\" wird ein Haus mit Hilfe von exakt 10.297 Ballons in die Lüfte gehoben.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Geräusche der Dinosaurier aus „Jurassic Park“ wurden durch Wale, Affe, Pferde und Gänse erzeugt.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Für den Film „Charlie und die Schokoladenfabrik“ wurden 40 echte Eichhörnchen trainiert Nüsse zu knacken.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "„Paranormal Activity“ ist mit einer Investitionsrentabilität von 19758 % der profitabelste Film der Filmgeschichte.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Chewbacca aus \"Star-Wars\" war von George Lucas Hund inspiriert.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Zwei Darstellerinnen aus „The Fast and the Furious“ hatten gar keinen Führerschein.",
+    "category": "filme",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Nach der Veröffentlichung von „Joker“ meldeten mehrere Städte weltweit einen Anstieg von Clown-Verkleidungen im öffentlichen Raum.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Während der Dreharbeiten zu „Inception“ wurde versehentlich eine Szene ohne Genehmigung in einem echten Bankgebäude gedreht.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Für die Darstellung der Schneelandschaften in „The Revenant“ wurde künstlicher Schnee aus Fischschuppen verwendet.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Crew von „Der Marsianer“ musste mehrere Szenen neu drehen, weil die NASA um inhaltliche Korrekturen bat.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Nach „Black Panther“ stieg in den USA die Nachfrage nach Afrikastudien an Universitäten merklich an.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die berühmte Regen-Szene in „Blade Runner“ wurde ursprünglich für einen anderen Film geplant.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Für „Gravity“ wurde ein eigens entwickeltes Kamerasystem gebaut, das Bewegungen der Internationalen Raumstation simulierte.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In „Der weiße Hai“ wurde echtes Fischblut verwendet, um die Reaktionen der Schauspieler authentischer zu machen.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die Sonnenuntergangsszene in „La La Land“ konnte wegen Lichtverhältnissen nur einmal pro Tag gefilmt werden.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Nach „Interstellar“ veröffentlichte ein Verlag ein Kinderbuch über Wurmlöcher – mit offizieller Genehmigung von Christopher Nolan.",
+    "category": "filme",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Das teuerste Buch der Welt wurde 1994 für 29 Millionen Euro an Bill Gates verkauft.",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Menschen, die mehr die mindestens 30 Minuten am Tag lesen, leben im durchschnittlich länger leben als Nichtleser.",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Der längste Satz in einem Buch besteht aus 823 Wörtern und wurde von Victor Hugo im Roman „Les Miserables“ geschrieben.",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "J.R.R. Tolkien erfand ganze Sprachen für die Welt von Mittelerde – inklusive Grammatik.",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Harry-Potter-Bände wurden in über 80 Sprachen übersetzt, darunter Latein und Altgriechisch.",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das meistgedruckte und am weitesten verbreitete Buch der Welt ist die Bibel.",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das am längsten geführte Tagebuch wurde von Col. Ernest Loftus über 91 Jahre geführt. ",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die größte Pyramide aus Büchern bestand insgesamt aus 70.247 Büchern.",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Das erste Buch, das auf einer Schreibmaschine geschrieben wurde, war „Tom Sawyers Abenteuer“ von Mark Twain",
+    "category": "buecher",
+    "is_ai_generated": false
+  },
+  {
+    "text": "J.K. Rowling schrieb den ersten Entwurf von „Harry Potter“ vollständig mit der Hand in Notizheften.",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Der erste bekannte Roman mit Emoji-Symbolen stammt aus dem 18. Jahrhundert.",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein frühes Manuskript von „Der kleine Prinz“ wurde jahrelang fälschlich in einer Pariser Bäckerei gelagert.",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Originalexemplar der Gutenberg-Bibel wurde bei einer Auktion versehentlich unter Startpreis versteigert.",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "George Orwell überarbeitete „1984“ mehrfach, weil er befürchtete, der Titel könnte als Jahreskalender verstanden werden.",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Ein Kapitel aus „Krieg und Frieden“ wurde in frühen Ausgaben ausgelassen, weil es als zu mathematisch galt.",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Agatha Christie soll einmal einen Roman entworfen haben, der rückwärts gelesen werden konnte (wurde aber nie veröffentlicht).",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "In Japan gibt es Bibliotheken, die ausschließlich Bücher ohne Text, aber mit Kapitelstruktur verleihen.",
+    "category": "buecher",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Während der Französischen Revolution wurden die Häute von guillotinierten Aristokraten zu Leder weiterverarbeitet.",
+    "category": "geschichte",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Urin war ein fester Bestandteil von Zahnpasta bis ins 18. Jahrhundert hinein.",
+    "category": "geschichte",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Nachdem die Wikinger ihre Feinde getötet hatten, benutzten sie die Schädel als Trinkgefäße.",
+    "category": "geschichte",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Azteken mixten Blut und Zement und benutzten es als Mörtel für ihre Gebäude – viele davon stehen heute noch.",
+    "category": "geschichte",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Napoleon war eigentlich gar nicht klein.",
+    "category": "geschichte",
+    "is_ai_generated": false
+  },
+  {
+    "text": "Die Berliner Mauer war ursprünglich als Kunstinstallation geplant.",
+    "category": "geschichte",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Im alten Florenz gab es eine Steuer auf übermäßige Fensterdekoration.  ",
+    "category": "geschichte",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Wikinger trugen Helme mit Spiegeln zur Verwirrung ihrer Gegner.",
+    "category": "geschichte",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Hitlers Telefon war pink und mit Goldrand verziert.",
+    "category": "geschichte",
+    "is_ai_generated": true
+  },
+  {
+    "text": "Die chinesische Mauer war ursprünglich als Handelsroute geplant.",
+    "category": "geschichte",
+    "is_ai_generated": true
+  }
+]
