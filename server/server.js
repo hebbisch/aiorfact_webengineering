@@ -13,7 +13,12 @@ const io = new Server(httpServer, {
     }
 });
 
-const PORT = 4000;
+app.get("/", (req, res) => res.send("Backend is running"));
+
+const PORT = process.env.PORT || 4000;
+httpServer.listen(PORT, () => {
+    console.log(`Server läuft auf Port ${PORT}`);
+});
 
 // 🧠 In-memory session storage
 const gameSessions = {}; // { [playerId]: { questions, timeLimit, correctAnswers } }
@@ -86,8 +91,4 @@ io.on("connection", (socket) => {
     socket.on("disconnect", () => {
         console.log("Client disconnected:", socket.id);
     });
-});
-
-httpServer.listen(PORT, () => {
-    console.log(`✅ Mock quiz WebSocket server running on http://localhost:${PORT}`);
 });

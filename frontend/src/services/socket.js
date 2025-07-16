@@ -1,6 +1,9 @@
 import { io } from "socket.io-client";
 
-const socket = io("http://localhost:4000");
+// Nutze relative URL, damit es auch über Domain + HTTPS funktioniert
+const socket = io("/", {
+    path: "/socket.io",
+});
 
 /**
  * Starts a new game by sending settings to the server.
