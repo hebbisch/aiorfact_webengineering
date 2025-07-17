@@ -65,7 +65,7 @@ export default function StartPage() {
             {/* first page, here you select single- or multiplayer mode */}
             {step === "mode" && (
                 <div className="text-center mb-6">
-                    <img src={logo} alt="Logo" className="w-100 mx-auto"/>
+                    <img src={logo} alt="Logo" className="w-full max-w-xs mx-auto mb-4" />
                     <h2 className="text-2xl font-semibold mb-4">Spielmodus auswählen</h2>
                     <div className="flex justify-center gap-x-6 mt-4">
                         <CustomButton onClick={() => handleModeSelect()}>
@@ -83,7 +83,7 @@ export default function StartPage() {
 
             {/* settings page */}
             {step === "details" && (
-                <div className="space-y-4 w-full max-w-md pt-16">
+                <div className="space-y-4 w-full max-w-md pt-4">
                     <button
                         onClick={handleAbbrechen}
                         className="absolute top-6 left-6 bg-gray-600 px-4 py-2 rounded-lg hover:bg-gray-700 z-50"

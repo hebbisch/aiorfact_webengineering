@@ -10,11 +10,12 @@ export default function ResultsPage() {
     const playerId = getOrCreatePlayerId();
     const navigate = useNavigate();
     const [score, setScore] = useState(null);
+    const [totalQuestions, setTotalQuestions] = useState(null);
 
     useEffect(() => {
         loadResults(playerId, (result) => {
             setScore(result);
-            const totalQuestions = parseInt(sessionStorage.getItem("totalQuestions"));
+            setTotalQuestions(sessionStorage.getItem("totalQuestions"));
             const ratio = result / totalQuestions;
 
             if (ratio > 0.5) {
@@ -34,54 +35,20 @@ export default function ResultsPage() {
     };
 
     return (
-        <div style={styles.wrapper}>
-            
-
-            <h1 style={styles.heading}>Ergebnis</h1>
+        <PageWrapper>
+            <h1>Ergebnis</h1>
 
             {score !== null ? (
-                <div style={styles.result}>
-                    Du hast <span style={styles.highlight}>{score}</span> Punkte erreicht.
+                <div>
+                    Du hast <span>{score}</span> von <span>{totalQuestions}</span> möglichen Punkte erreicht.
                 </div>
             ) : (
-                <p style={{ color: "white" }}>Lade Ergebnisse...</p>
+                <p>Lade Ergebnisse...</p>
             )}
 
-            <CustomButton onClick={handleRestart} style={styles.button}>
+            <CustomButton onClick={handleRestart}>
                 Neues Spiel
             </CustomButton>
-
-            
-        </div>
+        </PageWrapper>
     );
 }
-
-const styles = {
-    wrapper: {
-        display: "flex",
-        flexDirection: "column",
-        justifyContent: "center",
-        alignItems: "center",
-        height: "100vh",
-        textAlign: "center",
-        position: "relative",
-        backgroundColor: "#111",
-        color: "white",
-    },
-    heading: {
-        fontSize: "2rem",
-        fontWeight: "bold",
-        marginBottom: "1.5rem",
-    },
-    result: {
-        fontSize: "1.2rem",
-        marginBottom: "2rem",
-    },
-    highlight: {
-        color: "cyan",
-        fontWeight: "bold",
-    },
-    button: {
-        width: "200px",
-    },
-};
