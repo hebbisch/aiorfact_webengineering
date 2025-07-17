@@ -18,6 +18,9 @@ export default function Impressum() {
                 <br />
                 Frisabebba Games
                 <br />
+                <br>
+                Hebba Diab
+                </br>
                 Gänsbergring 23
                 <br />
                 71083 Herrenberg
