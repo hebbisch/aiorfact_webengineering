@@ -18,15 +18,15 @@ export default function Impressum() {
                 <br />
                 Frisabebba Games
                 <br />
-                Beispielstraße 123
+                Gänsbergring 23
                 <br />
-                12345 Musterstadt
+                71083 Herrenberg
             </p>
 
             <p className="mt-4">
                 Kontakt:
                 <br />
-                E-Mail: info@frisabebba.games
+                E-Mail: info@aiorfact.fun
             </p>
 		
 	    <div className="w-full max-w-md mt-8 bg-gray-800 p-4 rounded-lg shadow">
