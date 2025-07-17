@@ -14,10 +14,10 @@ export default function ResultsPage() {
     useEffect(() => {
         loadResults(playerId, (result) => {
             setScore(result);
-            const totalQuestions = parseInt(sessionStorage.getItem("totalQuestions")) || 10;
+            const totalQuestions = parseInt(sessionStorage.getItem("totalQuestions"));
             const ratio = result / totalQuestions;
 
-            if (ratio > 0) {
+            if (ratio > 0.5) {
                 confetti({
                     particleCount: 150,
                     spread: 70,
