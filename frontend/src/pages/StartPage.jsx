@@ -41,10 +41,6 @@ export default function StartPage() {
 
     const handleStart = () => {
         const isZufall = kategorie.includes("Zufall 🎲");
-        if (!spielerName.trim()) {
-            alert("Bitte gib einen Spielernamen ein.");
-            return;
-        }
         if (!isZufall && kategorie.length < 3) {
             alert("Bitte wähle mindestens 3 Kategorien oder Zufall 🎲.");
             return;
@@ -97,7 +93,7 @@ export default function StartPage() {
 
                     <input
                         type="text"
-                        placeholder="Spielername"
+                        placeholder="Spielername (optional)"
                         value={spielerName}
                         onChange={(e) => setSpielerName(e.target.value)}
                         className="w-full p-2 rounded bg-gray-800 text-white"

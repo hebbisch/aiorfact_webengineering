@@ -18,7 +18,7 @@ export default function ResultsPage() {
             const totalQuestions = parseInt(sessionStorage.getItem("totalQuestions")) || 10;
             const ratio = result / totalQuestions;
 
-            if (ratio > 0.5) {
+            if (ratio > 0.4) {
                 confetti({
                     particleCount: 150,
                     spread: 70,
@@ -38,18 +38,7 @@ export default function ResultsPage() {
 
     return (
         <div style={styles.wrapper}>
-            <style>{`
-                @keyframes raindrop {
-                    0% {
-                        transform: translateY(0);
-                        opacity: 0.6;
-                    }
-                    100% {
-                        transform: translateY(100vh);
-                        opacity: 0;
-                    }
-                }
-            `}</style>
+            
 
             <h1 style={styles.heading}>Ergebnis</h1>
 
@@ -65,21 +54,7 @@ export default function ResultsPage() {
                 Neues Spiel
             </CustomButton>
 
-            {showSad && (
-                <div style={styles.rainContainer}>
-                    {[...Array(100)].map((_, i) => (
-                        <div
-                            key={i}
-                            style={{
-                                ...styles.drop,
-                                left: `${Math.random() * 100}%`,
-                                animationDelay: `${Math.random() * 2}s`,
-                                animationDuration: `${1 + Math.random()}s`
-                            }}
-                        />
-                    ))}
-                </div>
-            )}
+            
         </div>
     );
 }
