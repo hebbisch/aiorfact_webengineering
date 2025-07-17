@@ -95,7 +95,7 @@ export default function GamePage() {
 
             <QuestionCard
                 question={q.text}
-                category={q.category} // ← internal key like "essen_trinken"
+                category={q.category}
                 timeLeft={timeLeft}
             />
 
@@ -108,9 +108,10 @@ export default function GamePage() {
                 </CustomButton>
             </div>
 
-            {feedback && (
-                <div className="text-7xl mt-8 animate-pulse">{feedback}</div>
-            )}
+            {/* Reservierter Platz für Feedback */}
+            <div className="mt-8 h-[4rem] text-7xl text-center">
+                {feedback && <div className="animate-pulse">{feedback}</div>}
+            </div>
         </PageWrapper>
     );
 }
