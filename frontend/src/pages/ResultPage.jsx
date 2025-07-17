@@ -36,7 +36,7 @@ export default function ResultsPage() {
 
     return (
         <PageWrapper>
-            <h2>Ergebnis</h2>
+            <h2 className="text-2xl font-semibold mb-4">Ergebnis</h2>
             <br/>
             {score !== null ? (
                 <div>
