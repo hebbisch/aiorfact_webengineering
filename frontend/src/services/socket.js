@@ -39,8 +39,6 @@ export function loadQuestions(playerId, setQuestions, setTimeLimit) {
     socket.emit("load-questions", { playerId });
 
     const handleQuestions = ({ questions, timeLimit }) => {
-        console.log("🧠 Questions received:", questions.length);
-        console.log("⏱️ Time limit received (ms):", timeLimit);
         setQuestions(questions);
         setTimeLimit(timeLimit);
         // Remove this handler right after it's used

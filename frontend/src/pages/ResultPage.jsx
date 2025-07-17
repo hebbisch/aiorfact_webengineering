@@ -36,8 +36,8 @@ export default function ResultsPage() {
 
     return (
         <PageWrapper>
-            <h1>Ergebnis</h1>
-
+            <h2>Ergebnis</h2>
+            <br/>
             {score !== null ? (
                 <div>
                     Du hast <span>{score}</span> von <span>{totalQuestions}</span> möglichen Punkte erreicht.
@@ -45,7 +45,7 @@ export default function ResultsPage() {
             ) : (
                 <p>Lade Ergebnisse...</p>
             )}
-
+            <br/>
             <CustomButton onClick={handleRestart}>
                 Neues Spiel
             </CustomButton>
