@@ -10,7 +10,6 @@ export default function ResultsPage() {
     const playerId = getOrCreatePlayerId();
     const navigate = useNavigate();
     const [score, setScore] = useState(null);
-    const [showSad, setShowSad] = useState(false);
 
     useEffect(() => {
         loadResults(playerId, (result) => {
@@ -18,15 +17,13 @@ export default function ResultsPage() {
             const totalQuestions = parseInt(sessionStorage.getItem("totalQuestions")) || 10;
             const ratio = result / totalQuestions;
 
-            if (ratio > 0.4) {
+            if (ratio > 0) {
                 confetti({
                     particleCount: 150,
                     spread: 70,
                     origin: { y: 0.6 }
                 });
-            } else {
-                setShowSad(true);
-            }
+            } 
         });
     }, []);
 
