@@ -37,7 +37,7 @@ export default function ResultsPage() {
     };
 
     return (
-        <PageWrapper>
+        <PageWrapper className="text-center space-y-6">
             <h2 className="text-2xl font-semibold mb-4">Ergebnis</h2>
             <br/>
             {score !== null ? (

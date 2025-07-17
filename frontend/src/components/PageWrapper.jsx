@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 
-export default function PageWrapper({ children }) {
+export default function PageWrapper({ children, className = "" }) {
     return (
-        <div className="min-h-screen flex flex-col items-center justify-between p-4 text-white overflow-hidden">
+        <div className={`min-h-screen flex flex-col items-center justify-between p-4 text-white ${className}`}>
             <div className="flex-grow w-full flex flex-col items-center justify-center overflow-auto">
                 {children}
             </div>
