@@ -40,7 +40,7 @@ export default function Impressum() {
                     />
                 </div>
                 <p className="text-sm mb-4">
-                    {currentDonations} € von {donationGoal} € gesammelt
+                    {currentDonations} € von {donationGoal} € gesammelt
                 </p>
                 <a
                     href="https://www.paypal.me/HebbaDiab" 
