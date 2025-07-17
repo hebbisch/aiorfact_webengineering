@@ -42,13 +42,15 @@ export default function ResultsPage() {
             <br/>
             {score !== null ? (
                 <div>
-                    Du hast <span>{score}</span> von <span>{totalQuestions}</span> möglichen Punkte erreicht.
+                    Du hast <span className="font-bold text-xl">{score}</span> von <span>{totalQuestions}</span> möglichen Punkte erreicht.
+                    <br/>
                     <br/>
                 </div>
             ) : (
                 <p>Lade Ergebnisse...</p>
             )}
             <CustomButton onClick={handleRestart}>
+                <br/>
                 Neues Spiel
             </CustomButton>
         </PageWrapper>
