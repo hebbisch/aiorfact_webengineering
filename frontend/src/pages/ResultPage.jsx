@@ -14,9 +14,11 @@ export default function ResultsPage() {
 
     useEffect(() => {
         loadResults(playerId, (result) => {
+            const total = parseInt(sessionStorage.getItem("totalQuestions"));
             setScore(result);
-            setTotalQuestions(sessionStorage.getItem("totalQuestions"));
-            const ratio = result / totalQuestions;
+            setTotalQuestions(total);
+
+            const ratio = result / total;
 
             if (ratio > 0.5) {
                 confetti({
@@ -41,11 +43,11 @@ export default function ResultsPage() {
             {score !== null ? (
                 <div>
                     Du hast <span>{score}</span> von <span>{totalQuestions}</span> möglichen Punkte erreicht.
+                    <br/>
                 </div>
             ) : (
                 <p>Lade Ergebnisse...</p>
             )}
-            <br/>
             <CustomButton onClick={handleRestart}>
                 Neues Spiel
             </CustomButton>
