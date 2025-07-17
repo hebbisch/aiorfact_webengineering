@@ -54,7 +54,7 @@ export default function StartPage() {
 
         startGame(playerId, settings);
 
-        sessionStorage.setItem("totalQuestions", frageRunden);
+        sessionStorage.setItem("totalQuestions", fragenRunden);
         
 
         navigate(`/game/${playerId}`);
