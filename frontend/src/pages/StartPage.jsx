@@ -12,7 +12,6 @@ export default function StartPage() {
     const [spielerName, setSpielerName] = useState("");
     const [zeitProFrage, setZeitProFrage] = useState(15);
     const [fragenRunden, setFragenRunden] = useState(10);
-    const [shuffle, setShuffle] = useState(false);
     const [kategorie, setKategorie] = useState([]);
     const navigate = useNavigate();
     const playerId = getOrCreatePlayerId();
@@ -55,7 +54,6 @@ export default function StartPage() {
             zeitProFrage,
             fragenRunden,
             kategorie: kategorie.map(k => categoryMap[k]),  // mapped
-            shuffle,
         };
 
         startGame(playerId, settings);
@@ -127,14 +125,6 @@ export default function StartPage() {
                         className="w-full h-2 bg-gray-300 rounded-lg"
                     />
 
-                    <label className="flex items-center space-x-2 mt-2">
-                        <input
-                            type="checkbox"
-                            checked={shuffle}
-                            onChange={(e) => setShuffle(e.target.checked)}
-                        />
-                        <span>Shuffle aktivieren</span>
-                    </label>
 
                     <div>
                         <p className="mt-4 mb-2 text-sm">Kategorien (mindestens 3):</p>

@@ -36,7 +36,7 @@ io.on("connection", (socket) => {
             zeitProFrage,
             fragenRunden,
             kategorie,
-            shuffle
+            //shuffle
         } = settings;
 
         const selected = selectQuestions({
