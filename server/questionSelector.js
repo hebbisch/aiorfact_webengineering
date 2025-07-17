@@ -48,11 +48,23 @@ function selectQuestions({ categories, limit = 10 }) {
         const aiFakes   = filtered.filter(q => q.is_ai_generated === true);
 
         const need = perCategory + (index < rest ? 1 : 0);
-        const half = Math.floor(need / 2);
-        const remainder = need - half;
+        // Zufällige Anzahl echter Fragen (0 bis need)
+        let realCount = Math.floor(Math.random() * (need + 1));
+        let aiCount = need - realCount;
 
-        const real = shuffleArray(realFacts).slice(0, half);
-        const ai = shuffleArray(aiFakes).slice(0, remainder);
+        // Begrenzung auf vorhandene Fragen
+        if (realFacts.length < realCount) {
+            aiCount += realCount - realFacts.length;
+            realCount = realFacts.length;
+        }
+        if (aiFakes.length < aiCount) {
+            realCount += aiCount - aiFakes.length;
+            aiCount = aiFakes.length;
+        }
+
+        const real = shuffleArray(realFacts).slice(0, realCount);
+        const ai = shuffleArray(aiFakes).slice(0, aiCount);
+
 
         selectedReal.push(...real);
         selectedAI.push(...ai);
