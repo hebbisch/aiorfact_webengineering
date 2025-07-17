@@ -31,7 +31,7 @@ Jetzt spielen: [https://aiorfact.fun](https://aiorfact.fun)
 ```bash
 # Projekt klonen
 git clone https://github.com/hebbisch/aiorfact_webengineering.git  # bei Bedarf anpassen
-cd webapp
+cd aiorfact_webengineering
 
 # Frontend starten
 cd frontend
